@@ -1,0 +1,1 @@
+gcc -c network.c -o build/network.o && gcc -c server.c -o build/server.o && gcc build/server.o build/network.o -o out/server && ./out/server
