@@ -1,6 +1,6 @@
 # Simple C Web Server
 
-A basic HTTP web server implementation in C that demonstrates fundamental networking concepts and socket programming.
+A basic HTTP web server implementation in C that uses networking concepts and socket programming.
 
 ## Project Structure
 
