@@ -1,3 +1,4 @@
+mkdir -p build out
 gcc -c network.c -o build/network.o
 gcc -c server.c -o build/server.o
 gcc -c client.c -o build/client.o
